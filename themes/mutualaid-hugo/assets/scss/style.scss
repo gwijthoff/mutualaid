@@ -1,0 +1,39 @@
+html {
+  line-height: 1.6;
+  letter-spacing: .03em;
+  scroll-behavior: smooth;
+}
+
+/* calling google fonts… */
+
+$font-heading: {{ $.Site.Params.heading_font | default "'Roboto', sans-serif" }};
+$font-body: {{ $.Site.Params.body_font | default "'Roboto', sans-serif" }};
+
+body {
+  font-family: $font-body;
+  font-size: 1.25rem;
+  color: #4e5964;
+  background-color: #c8ced5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+ font-family: $font-heading;
+}
+
+a {color: #383d59;}
+a.title {text-decoration: none;}
+a.title:visited {text-decoration: none;}
+a.title:link {text-decoration: none;}
+a.title:active {text-decoration: none;}
+
+// use default blue link color for visited links
+*:visited { color: #383d59; }
+
+.arrow {
+  border-left: 1px dotted;
+  height: 875px;
+  position: absolute;
+  left: 49%;
+  margin-left: -3px;
+  top: 25%;
+}

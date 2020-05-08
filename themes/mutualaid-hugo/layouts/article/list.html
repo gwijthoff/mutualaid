@@ -1,0 +1,49 @@
+{{ define "main" }}
+	<main>
+    {{ partial "header-page.html" . }}
+
+		{{ if or .Title .Content }}
+		<div class="pl7 f1 f2-m">
+			{{ with .Title }}<h1>{{ . }}</h1>{{ end }}
+			{{ with .Content }}<div>{{ . }}</div>{{ end }}
+		</div>
+		{{ end }}
+
+
+    <div class="pl7 f1 fw-m">
+
+		{{/* loop over articles */}}
+		{{ range where (where .Site.AllPages "Type" "article") ".Params.layout" "single" }}
+
+    <div class="w-15 pa3 mr2 tl">
+			<h4>
+					<a href="{{ .Permalink }}">{{ .Title }}</a>
+			</h4>
+			<div class="f3">
+				<p>
+					<ul style="list-style-type:none;padding:0;">
+	        {{ range .Params.authors }}
+	            <li>{{ . }}</li>
+	        {{ end }}
+	        </ul>
+				</p>
+				<p>
+					{{ dateFormat "Jan 2, 2006" .Date }}
+				</p>
+			</div>
+		</div>
+
+		<div class="w-40 pa3 mr2 f4">
+			<p>
+				{{ .Summary }}
+				{{ if .Truncated }}
+					<a href="{{ .Permalink }}">continue reading...</a>
+				{{ end }}
+			</p>
+		</div>
+
+		{{ end }}
+    </div>
+
+	</main>
+{{ end }}

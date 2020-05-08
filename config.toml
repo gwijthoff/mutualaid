@@ -1,0 +1,52 @@
+baseURL = "url.com"
+languageCode = "en-us"
+title = "Humanist Mutual Aid*"
+theme = "mutualaid-hugo"
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+enableEmoji = true
+FootnoteReturnLinkContents = "⇡"
+
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  order = "orders"
+
+[permalinks]
+  issues = "/:sections/:slug/"
+
+[outputFormats]
+  [outputFormats.TXT]
+    mediaType = "text/plain"
+
+[outputs]
+  page = ["HTML", "TXT"]
+
+[menu]
+
+  [[menu.main]]
+    name = "Updates"
+    url = "updates/"
+    weight = 10
+
+  [[menu.main]]
+    name = "FAQ"
+    url = "faq/"
+    weight = 20
+
+[params]
+  google_fonts = [
+    ["Fira Sans"],
+    ["Cormorant"],
+    ["Droid Serif"],
+    ["Oxygen"],
+    ["Rufina"],
+    ["Josefin Sans"]
+  ]
+
+  heading_font = "Josefin Sans"
+  body_font = "Cormorant"
+
+  dateform        = "January 2, 2006"
+  dateformShort   = "January 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
