@@ -6,4 +6,4 @@ The starting point will be digital humanities research consultations. Many more 
 For now, our goals are to use DH consultations to 1) provide researchers in precarious roles an additional source of income, 2) build a platform for those researchers to articulate and apply their expertise as humanities PhDs in a broader number of contexts, and 3) seed research at under-resourced colleges and universities at a moment when funding for the humanities will continue to shrink.
 
 
-gwijthoff.github.io/mutualaid/overview/idea/
+/overview/idea/

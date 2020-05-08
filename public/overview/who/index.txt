@@ -4,4 +4,4 @@ Who We Are
 The idea for this initiative began in conversations between the Center for Digital Humanities at Princeton and the Rutgers University New Brunswick Digital Humanities Initiative. Both shops have committed to a pilot program in which they sync up their consultation programs and pay researchers an hourly rate for conducting outside consultations. We are currently seeking to scale up this initiative through partnerships with additional schools in three regional DH groups in the Mid-Atlantic region: NYCDH, NJDHC, and Keystone DH.
 
 
-gwijthoff.github.io/mutualaid/overview/who/
+/overview/who/

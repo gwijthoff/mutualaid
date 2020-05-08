@@ -4,4 +4,4 @@ What We Need
 We are currently seeking commitment from universities within the above NY / NJ / PA consortiums who a) have graduate student, postdoctoral, or contingent faculty DH researchers, and b) can commit to a pool of funding that will be dedicated to paying consultants an hourly rate. In other words, grad student / postdoc / contingent faculty consultants will be paid an hourly rate from their home institutions in exchange for conducting consultations with researchers at under-resourced institutions.
 
 
-gwijthoff.github.io/mutualaid/overview/need/
+/overview/need/
