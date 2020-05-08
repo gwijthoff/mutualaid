@@ -1,4 +1,4 @@
-baseURL = "url.com"
+baseURL = "gwijthoff.github.io/mutualaid/"
 languageCode = "en-us"
 title = "Humanist Mutual Aid*"
 theme = "mutualaid-hugo"
