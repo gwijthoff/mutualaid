@@ -2,7 +2,6 @@ baseURL = "gwijthoff.github.io/mutualaid/"
 languageCode = "en-us"
 title = "Humanist Mutual Aid*"
 theme = "mutualaid-hugo"
-publishDir = "docs"
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 enableEmoji = true
 FootnoteReturnLinkContents = "⇡"
