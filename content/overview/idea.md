@@ -6,8 +6,8 @@ order: 1
 date: 2020-01-01
 ---
 
-COVID-19 has transformed the landscape of academic research and funding. The coming months will require creativity and collaboration. This pilot project is an effort to think about how we might pool our resources and strengthen ties between local institutions. It is built on the model of mutual aid, in which "communities take on the responsibility for caring for one another, rather than forcing individuals to fend for themselves."
+It's an understatement to say that COVID-19 has transformed the landscape of academic research. The coming months will require creativity and collaboration as we retrofit office hours and workshops for screens, as we reel from the loss of funding and income. This pilot project is an effort to prepare by pooling resources and strengthening ties between local institutions. It is built on the model of mutual aid, in which "communities take on the responsibility for caring for one another, rather than forcing individuals to fend for themselves."
 
-The starting point will be **digital humanities research consultations.** Many more forms of academic mutual aid are possible (developmental editing, book scans, etc.) and we hope the Humanist Mutual Aid community will grow through a proliferation of these many types of exchange.
+For now, our goal is to provide **digital humanities research consultations** to **1)** provide researchers in precarious roles an additional source of income, **2)** build a platform showcasing the broad range of ways that humanities expertise can be applied, and **3)** seed research at under-resourced institutions at a moment when funding for the humanities will continue to disappear.
 
-For now, our goals are to use DH consultations to **1)** provide researchers in precarious roles an additional source of income, **2)** build a platform for those researchers to articulate and apply their expertise as humanities PhDs in a broader number of contexts, and **3)** seed research at under-resourced colleges and universities at a moment when funding for the humanities will continue to shrink.
+While the starting point for Humanist Mutual Aid is DH consultations, there are many other forms of academic mutual aid that are possible (developmental editing, book scanning, etc.) We hope that the community will grow through a proliferation of these many types of exchange.

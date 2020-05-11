@@ -1,4 +1,4 @@
-baseURL = "https://gwijthoff.github.io/mutualaid/"
+baseURL = ""
 languageCode = "en-us"
 title = "Humanist Mutual Aid*"
 theme = "mutualaid-hugo"
@@ -21,6 +21,7 @@ publishDir = "docs"
 
 [outputs]
   page = ["HTML", "TXT"]
+  home = ["HTML", "TXT"]
 
 [menu]
 
