@@ -18,7 +18,7 @@
 	<div class="mw7 center ph3-ns">
 	  <div class="cf ph2-ns">
 	    <div class="fl w-30 w-30-ns pa2">
-	      <h3 class="f2">{{ with .Params.title }} {{ . }} {{ end }}</h3>
+	      <h2 class="f2">{{ with .Params.title }} {{ . }} {{ end }}</h2>
 	    </div>
 	    <div class="fl w-70 w-70-ns pa2">
 	      {{ with .Content }} {{ . }} {{ end }}
@@ -39,9 +39,9 @@
 	<div class="mw7 center ph3-ns">
 		<div class="cf ph2-ns">
 			<div class="fl w-30 w-30-ns pa2">
-				<h2 class="f3">
+				<h3 class="f3">
 						<a href="{{ .Permalink }}">{{ .Title }}</a>
-					</h2>
+					</h3>
 					<p>
 						<ul style="list-style-type:none;padding:0;">
 		        {{ range .Params.authors }}
