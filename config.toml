@@ -1,4 +1,4 @@
-baseURL = "https://humanistmutualaid.com/"
+baseURL = "https://www.humanistmutualaid.com/"
 languageCode = "en-us"
 title = "Humanist Mutual Aid*"
 theme = "mutualaid-hugo"
