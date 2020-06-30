@@ -29,27 +29,6 @@
   
   <url>
     <loc>https://www.humanistmutualaid.com/overview/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.humanistmutualaid.com/overview/idea/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.humanistmutualaid.com/overview/need/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.humanistmutualaid.com/overview/offer/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.humanistmutualaid.com/overview/who/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,6 +37,10 @@
   
   <url>
     <loc>https://www.humanistmutualaid.com/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.humanistmutualaid.com/types/</loc>
   </url>
   
 </urlset>

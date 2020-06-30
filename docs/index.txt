@@ -26,10 +26,10 @@
 |
 +---------------------------------------------->
 |
-|  Humanist Mutual Aid*
+|  Humanist Mutual Aid
 |
 |  Updated:
-|  June 23, 2020
+|  June 30, 2020
 |
 |  Read More At:
 |  https://www.humanistmutualaid.com/
@@ -38,34 +38,24 @@
 
 
 
-The Idea
+
 ===============
 
  
-It&#39;s an understatement to say that COVID-19 has transformed the landscape of academic research. The coming months will require creativity and collaboration as we retrofit office hours and workshops for screens, as we reel from the loss of funding and income. This pilot project is an effort to prepare by pooling resources and strengthening ties between local institutions. It is built on the model of mutual aid, &#34;in which people take responsibility for caring for one another and changing political conditions . . . by actually building new social relations that are more survivable.&#34; ([Spade 2020](https://read.dukeupress.edu/social-text/article/38/1%20(142)/131/160175/Solidarity-Not-CharityMutual-Aid-for-Mobilization))
+## The Idea
 
-For now, our goal is to offer **digital humanities research consultations** that will **1)** provide an additional source of income to researchers in precarious roles, **2)** build a platform showcasing the broad range of forums for humanities expertise in the world, and **3)** seed research at under-resourced institutions at a moment when funding for the humanities is in jeopardy.
+It&#39;s an understatement to say that COVID-19 has transformed the landscape of academic research in the humanities. The coming months will require creativity and collaboration as we retrofit classes and workshops for screens, as we reel from the loss of funding and income. This pilot project is an effort to prepare by pooling resources and strengthening ties between local institutions. It is built on the model of mutual aid, &#34;in which people take responsibility for caring for one another and changing political conditions . . . by actually building new social relations that are more survivable.&#34; ([Spade 2020](https://read.dukeupress.edu/social-text/article/38/1%20(142)/131/160175/Solidarity-Not-CharityMutual-Aid-for-Mobilization))
 
-While the starting point for Humanist Mutual Aid is DH consultations, there are many other forms of academic mutual aid that are possible (developmental editing, book scanning, translation, etc.) We hope that the community will grow through a proliferation of these many types of exchange.
- 
+The goal of this project is ☞ to seed humanities research at under-resourced institutions at a moment when funding for the humanities is in jeopardy, and ☞ to build a platform showcasing the broad range of forums for humanities expertise in the broader world.
 
-Who We Are
-===============
+## Who We Are
 
- 
-The idea for this initiative began during conversations between the Center for Digital Humanities at Princeton and the Rutgers University New Brunswick Digital Humanities Initiative. Both shops have committed to a pilot program that syncs up their consultation programs and pays researchers an hourly rate for conducting outside consultations. We are currently seeking to scale up this initiative through partnerships with additional schools in the following mid-Atlantic DH consortia: [NYCDH](https://nycdh.org/), [NJDHC](https://blogs.shu.edu/njdhc/), and [Keystone DH](http://keystonedh.network/2020/).
- 
+The idea for this project began in conversation between the Rutgers University New Brunswick [Digital Humanities Initiative](https://dh.rutgers.edu/) and the [Center for Digital Humanities](https://cdh.princeton.edu/) at Princeton University.
 
-What We Offer
-===============
+## What We Need
 
- 
-We offer one-hour consultations on a variety of DH research or professional development questions, from mapping to text analysis, 3D modeling to design. Individuals can request no more than one session per month. We ask that requests for consultations come only from individuals at colleges or universities who do not currently have the digital humanities infrastructure in place to support their work.
- 
+The **get involved** button below leads to a survey designed for graduate students, postdocs, and contingent faculty in the humanities. It asks what kind of aid you can offer, or what kind of aid you need.
 
-What We Need
-===============
+## What We Offer
 
- 
-We are currently seeking commitment from schools or DH centers within the above NY / NJ / PA consortia who a) have graduate student, postdoctoral, or contingent faculty DH researchers, and b) can commit to a pool of funding that will be dedicated to paying consultants an hourly rate. In other words, grad student / postdoc / contingent faculty consultants will be paid an hourly rate from their home institutions in exchange for conducting consultations with researchers at under-resourced institutions.
- 
+We are forming a community of moderators that consists of scholars at Rutgers and Princeton as well as volunteers among survey participants. These moderators will match helpers with helpees, and meet regularly to shape the project as the community grows and communicates their needs. 
