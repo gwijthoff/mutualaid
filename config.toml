@@ -1,6 +1,6 @@
 baseURL = "https://www.humanistmutualaid.com/"
 languageCode = "en-us"
-title = "Humanist Mutual Aid*"
+title = "Humanist Mutual Aid"
 theme = "mutualaid-hugo"
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 enableEmoji = true
@@ -31,9 +31,14 @@ publishDir = "docs"
     weight = 10
 
   [[menu.main]]
-    name = "FAQ"
-    url = "faq/"
+    name = "Types of Aid"
+    url = "types/"
     weight = 20
+
+  [[menu.main]]
+    name = "Take the Survey"
+    url = "https://humanistmutualaid.typeform.com/to/Rgowxntr"
+    weight = 30
 
 [params]
   google_fonts = [
@@ -52,3 +57,6 @@ publishDir = "docs"
   dateformShort   = "January 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
+
+[markup.goldmark.renderer]
+  unsafe = true
