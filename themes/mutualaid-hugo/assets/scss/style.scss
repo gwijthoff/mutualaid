@@ -12,8 +12,8 @@ $font-body: {{ $.Site.Params.body_font | default "'Roboto', sans-serif" }};
 body {
   font-family: $font-body;
   font-size: 1.25rem;
-  color: #4e5964;
-  background-color: #c8ced5;
+  color: #3C2E29;
+  background-color: #EFE5E0;
 }
 
 h1, h2 {font-family: $font-heading;}
@@ -23,14 +23,14 @@ h3, h4, h5, h6 {
  overflow-wrap: break-word;
 }
 
-a {color: #383d59;}
+a {color: #3C2E29;}
 a.title {text-decoration: none;}
 a.title:visited {text-decoration: none;}
 a.title:link {text-decoration: none;}
 a.title:active {text-decoration: none;}
 
 // use default blue link color for visited links
-*:visited { color: #383d59; }
+*:visited { color: #3C2E29; }
 
 .arrow {
   border-left: 1px dotted;
