@@ -15,7 +15,7 @@ The idea for this project began in conversation between the Rutgers University N
 
 ## What We Need
 
-The **get involved** button below leads to a survey designed for graduate students, postdocs, and contingent faculty in the humanities. It asks what kind of aid you can offer, or what kind of aid you need.
+The **get involved** button below leads to a survey designed for graduate students, postdocs, and contingent faculty in the humanities. It asks what kind of aid you can offer, or what kind of aid you need. Types of aid might include translation, editing, data visualization, or consultations on archival methods. See [this page](https://humanistmutualaid.com/types/) for more ideas.
 
 ## What We Offer
 
