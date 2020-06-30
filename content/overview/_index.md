@@ -1,4 +1,0 @@
----
-type: default
-title: Overview
----
