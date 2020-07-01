@@ -3,14 +3,14 @@
     {{ partial "header-page.html" . }}
 
 		{{ if or .Title .Content }}
-		<div class="pl7 f1 f2-m">
-			{{ with .Title }}<h1>{{ . }}</h1>{{ end }}
+		<div class="mw7 center measure pa3 tc">
+			{{ with .Title }}<h1 class="f-subheadline">{{ . }}</h1>{{ end }}
 			{{ with .Content }}<div>{{ . }}</div>{{ end }}
 		</div>
 		{{ end }}
 
 
-    <div class="pl7 f1 fw-m">
+    <div class="mw7 center measure pa3">
 
 		{{/* loop over articles */}}
 		{{ range where (where .Site.AllPages "Type" "article") ".Params.layout" "single" }}
@@ -19,7 +19,7 @@
 			<h4>
 					<a href="{{ .Permalink }}">{{ .Title }}</a>
 			</h4>
-			<div class="f3">
+			<div class="f4">
 				<p>
 					<ul style="list-style-type:none;padding:0;">
 	        {{ range .Params.authors }}
@@ -33,11 +33,14 @@
 			</div>
 		</div>
 
-		<div class="w-40 pa3 mr2 f4">
+		<div class="w-120 pa3">
 			<p>
 				{{ .Summary }}
 				{{ if .Truncated }}
 					<a href="{{ .Permalink }}">continue reading...</a>
+					<br/>
+					<br/>
+					<p class="tc">❀</p>
 				{{ end }}
 			</p>
 		</div>

@@ -1,10 +1,13 @@
 <footer>
-	<br />
+	<br/>
+	<br/>
+	<p class="tc">❀</p>
+	<br/>
 	{{ with .Site.Menus.main }}
 	<nav>
 		<h2 class="tc f3">
 			{{ range . }}
-			<a href="{{ .URL | relURL }}">{{ .Name }}<br /></a>
+			<a href="{{ .URL | relURL }}">{{ .Name }}<br/></a>
 			{{ end }}
 		</h2>
 	</nav>
