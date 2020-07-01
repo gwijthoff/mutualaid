@@ -32,11 +32,8 @@ a.title:active {text-decoration: none;}
 // use default blue link color for visited links
 *:visited { color: #3C2E29; }
 
-.arrow {
-  border-left: 1px dotted;
-  height: 875px;
-  position: absolute;
-  left: 49%;
-  margin-left: -3px;
-  top: 25%;
+// dotted underline
+u {
+    border-bottom: 1px dotted;
+    text-decoration: none;
 }
