@@ -35,15 +35,10 @@ publishDir = "docs"
     url = "types/"
     weight = 20
 
-  [[menu.main]]
-    name = "Take the Survey"
-    url = "https://humanistmutualaid.typeform.com/to/Rgowxntr"
-    weight = 30
-
 [params]
   google_fonts = [
     ["Fira Sans"],
-    ["Cormorant"],
+    ["Cormorant", "500"],
     ["Droid Serif"],
     ["Oxygen"],
     ["Rufina"],
