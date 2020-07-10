@@ -18,3 +18,9 @@ To begin, we are collecting requests for and offers of humanist expertise from g
 ## What We Offer
 
 We are forming a community of moderators that consists of scholars at Rutgers and Princeton as well as volunteers from among survey participants. These moderators will match helpers with helpees, and meet regularly to shape the project as the community grows and communicates their needs.
+
+<br/>
+<br/>
+
+<!-- typeform -->
+{{< survey >}}

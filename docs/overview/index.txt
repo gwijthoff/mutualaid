@@ -6,6 +6,6 @@ The goal of this project is ☞ to seed humanities research at under-resourced i
 Who We Are The idea for this project grew from conversations between the Rutgers University–New Brunswick Digital Humanities Initiative and the Center for Digital Humanities at Princeton University.
 What We Need To begin, we are collecting requests for and offers of humanist expertise from graduate students, postdocs, and contingent faculty. Forms of aid might include translation, editing, data visualization, and archival methods consults. See this page for more examples. The survey button below will collect your ideas.
 What We Offer We are forming a community of moderators that consists of scholars at Rutgers and Princeton as well as volunteers from among survey participants. These moderators will match helpers with helpees, and meet regularly to shape the project as the community grows and communicates their needs.
-
+  Get Involved  (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id=&#34;typef_orm_share&#34;, b=&#34;https://embed.typeform.com/&#34;; if(!gi.call(d,id)){ js=ce.call(d,&#34;script&#34;); js.id=id; js.src=b&#43;&#34;embed.js&#34;; q=gt.call(d,&#34;script&#34;)[0]; q.parentNode.insertBefore(js,q) } })()   
 
 https://www.humanistmutualaid.com/overview/
