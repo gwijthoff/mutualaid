@@ -11,7 +11,7 @@ Survey participants will be asked to enter forms of aid and expertise that they 
   Scholars in the humanities can offer [<u>idea</u>], [<u>idea</u>], and [<u>idea</u>].<br/><br/>Scholars in the humanities need [<u>idea</u>], [<u>idea</u>], and [<u>idea</u>].
 </p>
 
-In the future, community moderators might use survey suggestions to organize **scheduled events** for respondents, including: methods workshops, seminars, writing accountability groups, and consultations.
+In the future, community moderators might use survey suggestions to organize **dedicated projects** or **scheduled events** for respondents, including: methods workshops, seminars, writing accountability groups, and consultations.
 
 The following examples and categories of humanist mutual aid are only intended as suggestions. We welcome any and all ideas!
 
